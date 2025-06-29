@@ -1,0 +1,108 @@
+{
+  "featured": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal website to showcase projects and blogs.",
+      "image": "https://images.unsplash.com/photo-1543180903-b1323a55789a?q=80&w=2054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "codeUrl": "https://github.com/username/portfolio",
+      "demoUrl": "https://username.github.io/portfolio",
+      "tech": ["react", "tailwindcss", "vite", "nodejs", "expressjs", "mongodb"],
+      "tags": ["TypeScript", "ReactJS", "TailwindCSS"]
+    },
+    {
+      "title": "Weather App",
+      "description": "A simple app to check weather conditions by location.",
+      "image": "/images/project2.jpg",
+      "codeUrl": "https://github.com/username/weather-app",
+      "demoUrl": "https://weatherapp.demo.com",
+      "tech": ["react"],
+      "tags": ["ReactJS", "NextJS"]
+    },
+    {
+      "title": "Notes App",
+      "description": "A lightweight note-taking app with local storage and markdown support.",
+      "image": "/images/project17.jpg",
+      "codeUrl": "https://github.com/username/notes-app",
+      "demoUrl": "https://notesapp.demo.com",
+      "tech": ["react"],
+      "tags": ["ReactJS", "LocalStorage", "Markdown"]
+    },
+    {
+      "title": "Crypto Tracker",
+      "description": "Track live cryptocurrency prices with dynamic charts and filters.",
+      "image": "/images/project18.jpg",
+      "codeUrl": "https://github.com/username/crypto-tracker",
+      "demoUrl": "https://crypto.demo.com",
+      "tech": ["react", "tailwindcss"],
+      "tags": ["ReactJS", "TailwindCSS", "Chart.js"]
+    },
+    {
+      "title": "Job Board",
+      "description": "Search and filter tech jobs with a clean and modern UI.",
+      "image": "/images/project19.jpg",
+      "codeUrl": "https://github.com/username/job-board",
+      "demoUrl": "https://jobboard.demo.com",
+      "tech": ["nextjs", "tailwindcss"],
+      "tags": ["Next.js", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "title": "Dev Portfolio V2",
+      "description": "Second version of my developer portfolio built with Next.js and animations.",
+      "image": "/images/project20.jpg",
+      "codeUrl": "https://github.com/username/portfolio-v2",
+      "demoUrl": "https://username.dev",
+      "tech": ["nextjs"],
+      "tags": ["Next.js", "TypeScript", "Framer Motion"]
+    }
+  ],
+  "all": [
+    {
+      "title": "Chat App",
+      "description": "Real-time messaging with Socket.io and React.",
+      "image": "/images/project3.jpg",
+      "codeUrl": "https://github.com/username/chat-app",
+      "demoUrl": "https://chatapp.demo.com",
+      "tech": ["react", "database"]
+    },
+    {
+      "title": "E-Commerce Site",
+      "description": "An online store built with React and Stripe.",
+      "image": "/images/project4.jpg",
+      "codeUrl": "https://github.com/username/ecommerce-site",
+      "demoUrl": "https://ecommerce.demo.com",
+      "tech": ["react", "css3"]
+    },
+    {
+      "title": "AI Image Generator",
+      "description": "Generate images from text prompts using DALL·E API integration.",
+      "image": "/images/project21.jpg",
+      "codeUrl": "https://github.com/username/ai-image-generator",
+      "demoUrl": "https://aiimages.demo.com",
+      "tech": ["openai", "react", "tailwindcss"]
+    },
+    {
+      "title": "Language Learning App",
+      "description": "Learn languages with flashcards, quizzes, and spaced repetition.",
+      "image": "/images/project22.jpg",
+      "codeUrl": "https://github.com/username/lang-learn",
+      "demoUrl": "https://languageapp.demo.com",
+      "tech": ["nextjs", "mongodb", "tailwindcss"]
+    },
+    {
+      "title": "PDF Annotator",
+      "description": "Upload, annotate, and export PDFs directly in the browser.",
+      "image": "/images/project23.jpg",
+      "codeUrl": "https://github.com/username/pdf-annotator",
+      "demoUrl": "https://pdfannotator.demo.com",
+      "tech": ["react", "pdfjs", "typescript"]
+    },
+    {
+      "title": "Real-Time Dashboard",
+      "description": "Monitor server metrics with WebSocket updates and visualizations.",
+      "image": "/images/project24.jpg",
+      "codeUrl": "https://github.com/username/dashboard-realtime",
+      "demoUrl": "https://dashboard.demo.com",
+      "tech": ["react", "nodejs", "socketio"]
+    }
+  ]
+}
