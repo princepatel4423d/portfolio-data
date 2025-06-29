@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Email",
+    "icon": "EnvelopeSimple",
+    "username": "contact@princep4423d.com",
+    "action": "Send e-mail",
+    "url": "mailto:princep4423d@gmail.com?subject=Hello&body=I wanted to get in touch with you."
+  },
+  {
+    "name": "Github",
+    "icon": "GithubLogo",
+    "username": "princepatel4423d",
+    "action": "Open profile",
+    "url": "https://github.com/princepatel4423d"
+  },
+  {
+    "name": "Linkedin",
+    "icon": "LinkedinLogo",
+    "username": "princepatel4423d",
+    "action": "Open profile",
+    "url": "https://www.linkedin.com/in/princepatel4423d/"
+  },
+  {
+    "name": "Stack Overflow",
+    "icon": "StackOverflowLogo",
+    "username": "princepatel4423d",
+    "action": "Open summary",
+    "url": "https://stackoverflow.com/users/30574129/princepatel4423d"
+  },
+  {
+    "name": "Codepen",
+    "icon": "CodepenLogo",
+    "username": "princepatel4423d",
+    "action": "View pens",
+    "url": "https://codepen.io/princepatel4423d"
+  },
+  {
+    "name": "Reddit",
+    "icon": "RedditLogo",
+    "username": "u/princep4423d",
+    "action": "See comments",
+    "url": "https://www.reddit.com/user/princep4423d/"
+  },
+  {
+    "name": "Twitter",
+    "icon": "TwitterLogo",
+    "username": "@princep4423d",
+    "action": "See tweets",
+    "url": "https://x.com/princep4423d"
+  },
+  {
+    "name": "Instagram",
+    "icon": "InstagramLogo",
+    "username": "@princepatel_4423",
+    "action": "Open profile",
+    "url": "https://www.instagram.com/princepatel_4423"
+  }
+]
