@@ -1,4 +1,4 @@
-export default {
+{
   "Programming languages": [
     { name: "Python", icon: "Python", faded: true },
     { name: "Javascript", icon: "JavaScript", faded: false },
@@ -74,4 +74,4 @@ export default {
     { name: "Discord", icon: "Discord", faded: false },
     { name: "Windows", icon: "Windows", faded: true }
   ]
-};
+}
