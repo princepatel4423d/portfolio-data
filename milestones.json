@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Built My First Fullstack App",
+    "date": "Jan 2024",
+    "description": "Created a MERN stack blog with authentication, dashboard, and markdown editor.",
+    "type": "Project"
+  },
+  {
+    "title": "100 GitHub Stars Reached!",
+    "date": "Feb 2024",
+    "description": "One of my open-source projects gained over 100 stars from the community.",
+    "type": "Community"
+  },
+  {
+    "title": "Top Performer - BSc CA & IT",
+    "date": "Mar 2025",
+    "description": "Recognized for academic excellence during my 3rd semester.",
+    "type": "Academic"
+  }
+]
