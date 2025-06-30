@@ -1,0 +1,17 @@
+[
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Example",
+      "duration": "2015 - 2019",
+      "length": "4 years",
+      "description": "Graduated with honors, focused on software engineering and AI."
+    },
+    {
+      "degree": "Master of Science in Artificial Intelligence",
+      "institution": "Tech Institute",
+      "duration": "2019 - 2021",
+      "length": "2 years",
+      "description": "Specialized in machine learning and data science."
+    }
+  ]
+  
