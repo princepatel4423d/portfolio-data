@@ -2,29 +2,15 @@
     {
         "title": "Full-Stack Developer",
         "company": "Freelancer",
-        "duration": "Sep 2024 - Now",
-        "length": "10 months",
+        "duration": "April 2025 - Now",
+        "length": "",
         "description": "Development of websites, web applications and tools, using technologies such as TypeScript, React, Node.js, Next.js, Python, Django, PostgreSQL, Docker, among others."
     },
     {
-        "title": "Internet Technical Support",
-        "company": "BrSuper Internet",
-        "duration": "Jul 2024 - Now",
-        "length": "11 months",
-        "description": "Technical support for clients with internet problems, remote support, and internal projects development."
-    },
-    {
-        "title": "Computer lab monitor",
-        "company": "Instituto Mix de Profissões",
-        "duration": "Jun 2023 - Jul 2024",
-        "length": "about 1 year",
-        "description": "Support for students with doubts about the content, individual classes in basic computing and the Microsoft Office package, school IT support and computer maintenance."
-    },
-    {
-        "title": "Graphic Design",
+        "title": "Web Designer",
         "company": "Freelancer",
-        "duration": "Feb 2017 - Now",
-        "length": "over 8 years",
-        "description": "Creation of arts for Instagram, creation of ad banners, basic image and video editing."
+        "duration": "Feb 2025 - Now",
+        "length": "",
+        "description": "Creative and detail-oriented web designer with a strong eye for aesthetics and usability. Specializes in designing responsive, user-friendly websites that align with modern trends and brand identity."
     }
 ]
